@@ -145,7 +145,7 @@ int main() {
                                         min_ts = i;
                                 }
                         }
-                        std::cout << "Самая старая это: " << min_ts + 1 << " линия
+                        std::cout << "Самая старая это: " << min_ts + 1 << " линиz";
                         break;
                 }
 
